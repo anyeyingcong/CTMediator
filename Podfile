@@ -4,7 +4,7 @@
 # use_frameworks!
 
 target 'CTMediator' do
-
+#pod repo add PrivatePods https://github.com/ModulizationDemo/PrivatePods.git
 pod "HandyFrame"
 # pod "CTHandyCategories"
 
